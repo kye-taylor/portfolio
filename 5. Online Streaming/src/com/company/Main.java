@@ -10,7 +10,7 @@ public class Main {
         menu();
     }
     public static void controls() {
-        //creating an test, using the "gets" from below.
+        //creating an test, using the "gets" from below!
         System.out.println("Welcome to the Streaming Serives Control Pannel.");
         System.out.println("The Program selected is currently: " + brooklyn99.getTitle());
         System.out.println("Here are the program Details.");
