@@ -1,5 +1,5 @@
 # Portfolio
 ICA 1 Y2 OOP.
 
-# Auther
+# Author
 Kye Taylor.
